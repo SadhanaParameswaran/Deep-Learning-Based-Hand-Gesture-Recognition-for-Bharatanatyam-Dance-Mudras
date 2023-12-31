@@ -1,1 +1,0 @@
-# Deep-Learning-Based-Hand-Gesture-Recognition-for-Bharatanatyam-Dance-Mudras
